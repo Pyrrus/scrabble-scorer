@@ -1,3 +1,5 @@
+## Scrabble using java
+
 ## Step 1
  * set the build.gradle by the project name and public static void main(String[] args)
 
